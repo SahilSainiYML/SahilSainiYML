@@ -1,4 +1,4 @@
-# Hi, I am Sahil[<img align="right" alt="@gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail][<img align="right" alt="@linkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+# Hi, I am Sahil[<img align="right" alt="@Sahil" width="70px" src="https://github.com/SahilSainiYML/SahilSainiYML/assets/111066844/a2a488ea-3751-403c-9893-d13c8bb338a3" />][Sahil's Profile][<img align="right" alt="@gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail][<img align="right" alt="@linkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 Working as Lead Developer with 9+ Years of experience in iOS Application Development.
 
