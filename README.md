@@ -1,4 +1,5 @@
-# Hi, I am Sahil[<img align="right" alt="@Sahil" width="70px" src="https://github.com/SahilSainiYML/SahilSainiYML/assets/111066844/a2a488ea-3751-403c-9893-d13c8bb338a3"/>][Sahil's Profile][<img align="right" alt="@gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail][<img align="right" alt="@linkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a><h1> <img src="https://readme-typing-svg.herokuapp.com?duration=3500&lines=Hi+there+👋;I'm+Sahil+Saini+🤝.;I'm+an+iOS+Developer+💻.;">
+  </a></h1></a> [<img align="right" alt="@Sahil" width="70px" src="https://github.com/SahilSainiYML/SahilSainiYML/assets/111066844/a2a488ea-3751-403c-9893-d13c8bb338a3"/>][Sahil's Profile][<img align="right" alt="@gmail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail][<img align="right" alt="@linkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <table>
   <tr>
